@@ -1,4 +1,4 @@
- A Library Management System Project using Spring 
+ A Library Management System Project using Spring Tool Suite 
  Dependencies used-
  Maven
  Spring-Web
